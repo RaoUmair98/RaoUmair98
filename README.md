@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaoUmair98
 - 👀 I’m interested programming
-- 🌱 I’m currently learning PHP Laravel
+- 🌱 Working on PHP Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - LinkedIn: https://www.linkedin.com/in/rao-umair-ali-3347681a0/
